@@ -7,7 +7,7 @@ name = "pypi"
 scrapy = "*"
 scrapy-sentry = "*"
 city-scrapers-core = "*"
-pypi = {version = "*", sys_platform = "== '*'"}
+pypi = {version = "*", sys_platform = "== 'fedora'"}
 scrapy-wayback-middleware = "*"
 
 [dev-packages]
